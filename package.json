@@ -1,0 +1,26 @@
+{
+  "name": "online-chat-app",
+  "version": "1.0.0",
+  "description": "This was made for practice purposes and for my portfolio, feel free to learn from the code. :)",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fizzify/online-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fizzify/online-chat-app/issues"
+  },
+  "homepage": "https://github.com/Fizzify/online-chat-app#readme",
+  "dependencies": {
+    "socket.io": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
